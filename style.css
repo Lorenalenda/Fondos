@@ -1,0 +1,30 @@
+/*Importacion a la libreria de Google Founts  */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;1,400;1,700&display=swap');
+
+body {
+background-color: #321D61;
+color: #00AA9A;
+
+background-image: url(Fondo.gif);
+background-repeat: no-repeat;
+background-position: center top;
+background-size: cover;
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+text-align: center;
+
+}
+
+h1 {
+color: #C4DC6A;
+background-color: #FDEADB;
+
+}
+
+footer{
+background-color: #EAF2C2;
+position: absolute;
+bottom: 0;
+width: 100%;
+}
